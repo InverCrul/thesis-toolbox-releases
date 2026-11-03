@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "url": "https://github.com/InverCrul/thesis-toolbox-releases/releases/download/v1.0/ThesisToolbox_v1.0_import.exe",
-  "sha256": "7a41b8d9d3f1055dd07513795f5888fc29248c74197e157429b15e9b11cbf012",
-  "notes": "v1.0 正式版"
+  "version": "1.2",
+  "url": "https://github.com/InverCrul/thesis-toolbox-releases/releases/download/v1.2/ThesisToolbox_v1.2_import.exe",
+  "sha256": "8bcb677f4445e7635762fcce5d2e3ac2752625124230b544467850ed3ff33ca3",
+  "notes": "v1.2 正式版：表格编辑器重构、图片可调宽高、特殊章节自定义、关闭到托盘等。仍推荐纯文字书写。"
 }
