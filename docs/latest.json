@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
-  "url": "https://github.com/InverCrul/thesis-toolbox-releases/releases/download/v1.2/ThesisToolbox_v1.2_import.exe",
-  "sha256": "8bcb677f4445e7635762fcce5d2e3ac2752625124230b544467850ed3ff33ca3",
-  "notes": "v1.2 正式版：表格编辑器重构、图片可调宽高、特殊章节自定义、关闭到托盘等。仍推荐纯文字书写。"
+  "version": "1.2.1",
+  "url": "https://github.com/InverCrul/thesis-toolbox-releases/releases/download/v1.2.1/ThesisToolbox_v1.2.1_import.exe",
+  "sha256": "526141c2d84d569a23d49c5d36623dbe183a3937d999d49e1760d102d8d49f03",
+  "notes": "v1.2.1 修复版：微软输入法不再遮挡正在输入的文字；生成的 Word 不再是修订模式，打开即可直接改；下拉/数字/勾选等控件箭头统一为矢量三角；课程考核的「正文标题」与「文档标题」彻底分开，改名不再覆盖题目，启用摘要时正文也有题目；重复启动不会多开窗口；转 PDF 与更新目录页码移到后台，界面不再「未响应」并支持取消。"
 }
